@@ -108,5 +108,5 @@ PLATFORMS
 DEPENDENCIES
   annotate
   irbtools
-  rails (= 3.0.5)
+  rails
   sqlite3
